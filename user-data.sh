@@ -1,7 +1,7 @@
 #!/bin/bash
 
 
-MY_WALLET="WALLET_ADDRESS"
+MY_WALLET="0xd5c80ec649fc5ea86bE1f392B39b47720A3dCb7b"
 MY_WORKER=`curl http://169.254.169.254/latest/meta-data/instance-id`
 
 cd  /home/ubuntu/
